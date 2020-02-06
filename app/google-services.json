@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970733720493",
+    "firebase_url": "https://schedulesoccer02.firebaseio.com",
+    "project_id": "schedulesoccer02",
+    "storage_bucket": "schedulesoccer02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970733720493:android:57ae69a9ad5cfdb1164724",
+        "android_client_info": {
+          "package_name": "com.ScheduleSoccer02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970733720493-opbi69fqh7ugs5f6um4r4khh5997a6ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ScheduleSoccer02",
+            "certificate_hash": "77d62d7991c2093ba4510e1840295c541ad8bda8"
+          }
+        },
+        {
+          "client_id": "970733720493-ih3q7vsvo09cqaso2m62b2crqh337f4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZy2L9NfQyquP48idrDxGOuzAvQhibhVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970733720493-ih3q7vsvo09cqaso2m62b2crqh337f4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
